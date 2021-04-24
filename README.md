@@ -31,4 +31,4 @@ before deploying portfolio.
 
 <h3>:gear: Contribution</h3>
 
-If you have any suggestions on what to improve in <em>react-frontend-dev-portfolio</em> and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
+If you have any suggestions on what to improve and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
