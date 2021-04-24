@@ -16,7 +16,8 @@ app.use(express.json({extended: false}));
 //define routes
 app.use('/api/user', userRoutes);
 //middleware
-app.unsubscribe(notFound);
+app.use(notFound);
+app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000 
 
