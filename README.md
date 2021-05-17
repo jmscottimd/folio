@@ -19,9 +19,15 @@ before deploying portfolio.
 
 
 <h3>:memo: Changelog</h3>
-
 <details>
-<summary>[ 04/2021, contributor: <a href="https://github.com/jmscottimd">@jmscottimd</a> ]</summary>
+<summary>[ 04. 24. 2021, contributor: <a href="https://github.com/jmscottimd">@jmscottimd</a> ]</summary>
+<pre>
+- fixed initial issue with token not returning when user created(missing return)
+-  authentication middleware using JSON web tokens, and create two new user controllers. 
+</pre>
+</details>
+<details>
+<summary>[ 04.2021, contributor: <a href="https://github.com/jmscottimd">@jmscottimd</a> ]</summary>
 <pre>
 -  mostly set up tasks
 - setting up front and back end
