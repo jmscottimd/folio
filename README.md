@@ -20,6 +20,13 @@ before deploying portfolio.
 
 <h3>:memo: Changelog</h3>
 <details>
+<summary>[ 05. 16. 2021, contributor: <a href="https://github.com/jmscottimd">@jmscottimd</a> ]</summary>
+<pre>
+- more token fixes related to typos.
+-  started work on blog model, controllers and routes.  
+</pre>
+</details>
+<details>
 <summary>[ 04. 24. 2021, contributor: <a href="https://github.com/jmscottimd">@jmscottimd</a> ]</summary>
 <pre>
 - fixed initial issue with token not returning when user created(missing return)
