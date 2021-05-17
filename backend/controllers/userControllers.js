@@ -70,5 +70,9 @@ const loginUser = asyncHandler(async(req,res)=> {
         throw new Error('Invalid email or password')
     }
 })
+//@route    DELETE/api/user/:id
+//@desc      delete user by id
+//@access    Public
+
 
 module.exports = {registerUser, getAllUsers, loginUser}

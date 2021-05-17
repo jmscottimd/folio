@@ -3,7 +3,7 @@ const express = require('express')
 const router = express.Router()
 
 //controllers
-const { registerUser, getAllUsers, loginUser } = require('../controllers/userController')
+const { registerUser, getAllUsers, loginUser } = require('../controllers/userControllers')
 
 //routes
 
