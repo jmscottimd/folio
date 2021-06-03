@@ -14,6 +14,6 @@ router
 .route('/:id')
 .put(protect, admin, updateBlog)
 .get(getBlogById)
-.deleteBlog(protect, admin, deleteBlog)
+.delete(protect, admin, deleteBlog)
 
 module.exports = router
